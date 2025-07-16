@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+google-generativeai
+dotenv
+selenium
+pillow
+jinja2
+pdfkit
